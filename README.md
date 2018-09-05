@@ -1,9 +1,9 @@
 
 ## Assigning Success Likelihoods to Recently Drafted Quarterbacks
 
-A full description of the project can be found at [saisenberg.com](https://saisenberg.com/projects/quarterbacks.html).
-
 This project attempts to predict quarterbacks' NFL success - both for recently drafted quarterbacks, and for those whose career outcomes we already know. We first develop an objective definition of "success", and use this definition to classify quarterbacks as either "successful" or "unsuccessful." Then, using the players' college statistics and physical attributes, we use random forest modeling to predict the quarterbacks' respective chances at success. Ultimately, we end up with a series of success likelihood projection distributions for a number of quarterbacks drafted within the last two years, and analyze these results to determine the recent draftees most likely to succeed.  
+
+A full description of the project can be found at [**saisenberg.com**](https://saisenberg.com/projects/quarterbacks.html).
 
 ### Getting started
 
