@@ -1,0 +1,88 @@
+player,school,conf,g,completions,att,yds,td,int,rush_att,rush_yds,rush_td,year
+Matt Cassel,USC,Pac-10,7,1,2,5,0,0,3,22,0,2001
+Matt Cassel,USC,Pac-10,10,3,4,27,0,0,1,1,0,2002
+Matt Cassel,USC,Pac-10,8,6,13,63,0,0,1,-2,0,2003
+Matt Cassel,USC,Pac-10,9,10,14,97,0,1,6,11,0,2004
+Joe Flacco,Delaware,CAA,15,331,521,4263,23,5,64,22,4,2007
+Joe Flacco,Delaware,CAA,11,264,417,2783,18,10,83,54,5,2006
+Jimmy Garoppolo,Eastern Illinois,OVC,11,124,211,1639,14,13,41,-68,1,2010
+Jimmy Garoppolo,Eastern Illinois,OVC,11,217,349,2644,20,14,66,-61,1,2011
+Jimmy Garoppolo,Eastern Illinois,OVC,12,331,540,3823,31,15,83,0,2,2012
+Jimmy Garoppolo,Eastern Illinois,OVC,14,375,568,5050,53,9,70,147,4,2013
+Brad Johnson,Florida State,ACC,11,8,13,81,1,1,1,7,0,1988
+Brad Johnson,Florida State,ACC,11,7,12,67,0,0,3,-11,0,1989
+Brad Johnson,Florida State,ACC,11,109,163,1136,8,5,21,6,2,1990
+Brad Johnson,Florida State,ACC,12,37,61,462,5,3,10,52,0,1991
+Josh Johnson,San Diego,Pioneer,10,206,301,2988,43,1,101,726,2,2007
+Josh Johnson,San Diego,Pioneer,12,246,371,3320,34,5,107,720,11,2006
+Josh Johnson,San Diego,Pioneer,12,260,371,3256,36,8,86,379,4,2005
+Josh Johnson,San Diego,Pioneer,8,12,135,22,0,1,13,44,2,2004
+Kyle Lauletta,Richmond,CAA,14,16,21,108,2,0,3,8,0,2013
+Kyle Lauletta,Richmond,CAA,14,241,391,3598,19,15,78,116,7,2015
+Kyle Lauletta,Richmond,CAA,14,220,349,3022,24,8,49,-28,1,2016
+Kyle Lauletta,Richmond,CAA,11,281,433,3737,28,12,68,90,4,2017
+Steve McNair,Alcorn State,SWAC,0,0,0,0,0,0,0,0,0,1992
+Steve McNair,Alcorn State,SWAC,0,0,0,0,0,0,0,0,0,1993
+Steve McNair,Alcorn State,SWAC,0,0,0,0,0,0,0,0,0,1994
+Steve McNair,Alcorn State,SWAC,44,927,1680,14496,119,58,375,2237,33,1995
+Warren Moon,Washington,Pac-8,8,48,122,587,2,2,60,94,2,1975
+Warren Moon,Washington,Pac-8,11,81,175,1106,6,8,80,69,1,1976
+Warren Moon,Washington,Pac-8,11,113,199,1584,11,7,99,266,6,1977
+Billy Volek,Fresno State,WAC,12,0,0,0,0,0,0,0,0,1997
+Billy Volek,Fresno State,WAC,11,0,0,0,0,0,0,0,0,1998
+Billy Volek,Fresno State,WAC,12,564,934,6385,57,12,175,-178,9,1999
+Bubby Brister,Tulane,Ind,7,0,0,0,0,0,0,0,0,1982
+Bubby Brister,Tulane,Ind,2,71,140,646,2,4,33,54,0,1983
+Doug Pederson,Lousiana-Monroe,Ind,11,121,226,1549,7,12,0,0,0,1988
+Doug Pederson,Lousiana-Monroe,Ind,11,243,436,2603,16,15,0,0,0,1989
+Doug Pederson,Lousiana-Monroe,Ind,11,190,341,2152,10,14,150,90,3,1990
+Drew Henson,Michigan,Big Ten,0,0,0,0,0,0,0,0,0,1
+Drew Henson,Michigan,Big Ten,0,0,0,0,0,0,0,0,0,1
+Drew Henson,Michigan,Big Ten,24,196,351,2631,22,7,60,74,1.2,1
+Jonathan Quinn,Middle Tennessee State,OVC,11,108,223,1742,8,7,0,0,0,1
+Jonathan Quinn,Middle Tennessee State,OVC,11,71,159,931,4,9,0,0,0,1
+Jonathan Quinn,Middle Tennessee State,OVC,10,167,293,2209,16,10,151,162,7,1
+Kelly Holcomb,Middle Tennessee State,OVC,0,0,0,0,0,0,0,0,0,1
+Kelly Holcomb,Middle Tennessee State,OVC,0,0,0,0,0,0,0,0,0,1
+Kelly Holcomb,Middle Tennessee State,OVC,0,0,0,0,0,0,0,0,0,1
+Kelly Holcomb,Middle Tennessee State,OVC,43,501,861,7064,36,25,213,-66,4,1
+Kent Graham,Ohio State,Big Ten,0,0,0,0,0,0,0,0,0,1
+Kent Graham,Ohio State,Big Ten,0,0,0,0,0,0,0,0,0,1
+Kent Graham,Ohio State,Big Ten,0,0,0,0,0,0,0,0,0,1
+Kent Graham,Ohio State,Big Ten,46,126,228,1605,8,14,94,-30,1,1
+Randy Fasani,Stanford,Pac-10,0,0,0,0,0,0,0,0,0,1
+Randy Fasani,Stanford,Pac-10,0,0,0,0,0,0,0,0,0,1
+Randy Fasani,Stanford,Pac-10,0,0,0,0,0,0,0,0,0,1
+Randy Fasani,Stanford,Pac-10,46,188,369,2973,25,11,127,317,6,1
+Ryan Fitzpatrick,Harvard,Ivy,0,0,0,0,0,0,0,0,0,1
+Ryan Fitzpatrick,Harvard,Ivy,17,265,454,3756,29,14,227,878,11,1
+Ryan Tannehill,Texas A&M,Big 12,0,0,0,0,0,0,0,0,0,1
+Ryan Tannehill,Texas A&M,Big 12,26,484,774,5450,42,21,115,369,5,1
+Tarvaris Jackson,Alabama State,SWAC,0,0,0,0,0,0,0,0,0,1
+Tarvaris Jackson,Alabama State,SWAC,0,0,0,0,0,0,0,0,0,1
+Tarvaris Jackson,Alabama State,SWAC,0,0,0,0,0,0,0,0,0,1
+Tarvaris Jackson,Alabama State,SWAC,44,550,1022,7964,68,29,275,1029,11,1
+Tyler Thigpen,Coastal Carolina,Big South,0,0,0,0,0,0,0,0,0,1
+Tyler Thigpen,Coastal Carolina,Big South,0,0,0,0,0,0,0,0,0,1
+Tyler Thigpen,Coastal Carolina,Big South,0,0,0,0,0,0,0,0,0,1
+Tyler Thigpen,Coastal Carolina,Big South,41,486,879,6598,53,25,346,1626,13,1
+Carson Wentz,North Dakota State,MVC,8,12,16,144,2,0,5,22,1,2012
+Carson Wentz,North Dakota State,MVC,11,22,30,209,1,0,10,70,0,2013
+Carson Wentz,North Dakota State,MVC,16,228,358,3111,25,10,138,642,6,2014
+Carson Wentz,North Dakota State,MVC,7,130,208,1651,17,4,63,294,6,2015
+John Skelton,Fordham,Patriot,11,74,167,960,6,8,56,83,1,2006
+John Skelton,Fordham,Patriot,12,216,383,2650,22,11,96,275,6,2007
+John Skelton,Fordham,Patriot,11,228,372,2605,15,7,58,85,2,2008
+John Skelton,Fordham,Patriot,11,284,441,3708,26,10,85,120,5,2009
+Tony Romo,Eastern Illinois,OVC,12,24,49,396,3,2,3,-37,0,1999
+Tony Romo,Eastern Illinois,OVC,11,164,278,2583,27,12,11,-20,1,2000
+Tony Romo,Eastern Illinois,OVC,10,138,207,2068,21,6,10,-80,0,2001
+Tony Romo,Eastern Illinois,OVC,12,258,407,3165,34,16,35,-16,1,2002
+Joe Callahan,Wesley,CAC,4,0,0,0,0,0,0,0,0,1
+Joe Callahan,Wesley,CAC,13,0,0,0,0,0,0,0,0,1
+Joe Callahan,Wesley,CAC,14,0,0,0,0,0,0,0,0,1
+Joe Callahan,Wesley,CAC,13,918,1429,12878,130,87,235,600,18,1
+Seth Russell,Baylor,Big 12,7,0,0,0,0,0,0,0,0,1
+Seth Russell,Baylor,Big 12,8,0,0,0,0,0,0,0,0,1
+Seth Russell,Baylor,Big 12,7,0,0,0,0,0,0,0,0,1
+Seth Russell,Baylor,Big 12,9,345,606,5461,60,18,199,1240,20,1
