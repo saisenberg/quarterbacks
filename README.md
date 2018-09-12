@@ -13,8 +13,6 @@ A full description of the project can be found at [**saisenberg.com**](https://s
 
 * [R](https://www.r-project.org/)
 
-* [RStudio](https://www.rstudio.com/products/rstudio/download/)
-
 #### Prerequisite libraries
 
 * Python:
@@ -22,7 +20,7 @@ A full description of the project can be found at [**saisenberg.com**](https://s
     - matplotlib, numpy, os, pandas, seaborn, sklearn, warnings (```all installed with Anaconda```)
 
 
-* RStudio:
+* R:
 
 ```
 lib <- c('data.table', 'dplyr', 'ggplot2', 'gtools', 'htmltab', 'jsonlite', 'rvest', 'stringr')

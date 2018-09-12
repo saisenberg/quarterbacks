@@ -101,7 +101,7 @@ qb_stats$scaled_gs_per_year <- as.numeric(scale(qb_stats$gs_per_year)) * 1
 set.seed(123)
 kmeans_1 <- kmeans(qb_stats[,c(31:35)], centers = 9, nstart = 500)
 qb_stats$cluster <- factor(kmeans_1$cluster)
-ggplot(qb_stats, aes(x=scaled_att_per_year, y=scaled_rate, color = cluster, size=2)) + geom_point(size=5, alpha=0.5) + xlab('Attempts per year (scaled)') + ylab('Quarterback rating (scaled)') + ggtitle('Quarterback clusters') + theme(plot.title = element_text(hjust=0.5))
+ggplot(qb_stats, aes(x=scaled_att_per_year, y=scaled_rate, color = cluster, size=2)) + geom_point(size=5, alpha=0.75) + xlab('Attempts per year (scaled)') + ylab('Quarterback rating (scaled)') + ggtitle('Quarterback clusters') + theme_minimal() + theme(plot.title = element_text(hjust=0.5)) + theme(text = element_text(size=10)) + scale_color_brewer(palette = "Paired")
 
 qbGroup <- function(num){
   return(qb_stats[qb_stats$cluster == num, 'player'])
