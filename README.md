@@ -41,11 +41,11 @@ This program collects, cleans, and aggregates NFL quarterback data from *[pro-fo
 
 The output of */r/nfl_stats.R* can also be found at */data/prev_drafted_qb.csv* and */data/recent_drafted_qb.csv*.
 
-#### 3. Run the code contained in */python/nfl_qbs.ipynb*
+#### 3. Run the code contained in */python/quarterbacks.ipynb*
 
 This code attempts predict quarterback success using the previously-scraped college football quarterback data. After first iterating through the random forest algorithm twice, the code repeats the process ten thousand times, each time generating different success likelihood predictions for recently drafted quarterbacks. Results for each quarterback are then aggregated and analyzed.
 
-The output of */python/nfl_qbs.ipynb* has been included within the iPython Notebook file.
+The output of */python/quarterbacks.ipynb* has been included within the iPython Notebook file.
 
 
 ### Author
